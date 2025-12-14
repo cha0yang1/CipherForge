@@ -1,3 +1,6 @@
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/db508bd9-a7c2-4972-bcf3-c81f14c8861e" />
+
+
 # CipherForge
 D-Link AQUILA PRO AI AX3000 智能 Mesh 路由器/产品型号M30 M30A1_FW1.10固件的 AES-128-CBC 解密工具，支持硬编码固定 Key 与 OpenSSL KDF 派生模式，提供 Python 脚本和 Windows exe 一键版/M30A1_FW1.10 firmware AES-128-CBC decryption tool, supporting hard-coded fixed keys and OpenSSL KDF derivation mode, providing both Python script and Windows executable one-click version
 
